@@ -113,4 +113,3 @@ alias gp="git push"
 alias grh="git reset --hard"
 alias gs="git status"
 alias gpo="git pull origin"
-export GPG_TTY=$(tty)
